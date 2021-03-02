@@ -1,0 +1,1 @@
+Bdico = {"run" : ["Human", "Elves"]}
